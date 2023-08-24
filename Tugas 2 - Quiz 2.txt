@@ -1,0 +1,30 @@
+Nama: Farrel Cahyo A
+Tugas 2 - Quiz 2
+
+# Git merupakan VCS (Version Control System) yang gratis serta open source yang dirancang untuk menangani segala project yang dikerjakan dan memungkinkan developer untuk bekerja melaksanakan suatu project secara bersama-sama.
+# Git terdiri dari 2 sistem, yakni Centralized dan Distribited
+  - Centralize bekerja dengan menggunakan satu server yang berfungsi untuk menyimpan data dari project yang mana sistem ini membutuhkan koneksi network untuk mengaksesnya
+  - Distributed bekerja dengan menyimpan data project di lokal dan server sehingga lebih aman ketika terjadi sesuatu pada servernya
+# Ada berbagai macam fitur-fitur dalam Git
+  - Version Control, dimana git akan menyimpan setiap perubahan yang diubah pada source code
+  - Branch merupakan fitur yang paling sering digunakan dimana fungsi utamanya adalah tidak adanya gangguan pada source code utama ketika menambahkan fitur baru
+  - Merging, dimana Git memungkinkan pengguna yang telah selesai mendevelop code dan melakukan testing untuk digabungkan dengan branch lain atau branch utama
+  - Staging are, dimana pengguna dapat memilih perubahan yang akan di-commit ke repository
+  - Git Rebase digunakan untuk menggabungkan atau menggeser commit base
+  - Hooks yaitu script yang dijalankan secara otomatis saat terjadi peristiwa tertentu pada git
+  - GUI Tools untuk memudahkan Git bagi pengguna yang tidak suka atau kurang terbiasa dengan command line
+# Keunggulan Git
+  - Dapat mengelola versi kode sumber dengan mudah dan efisien 
+  - Dapat melakukan branching dan merging dengan mudah dan aman
+  - Dapat melacak perubahan dan siapa yang membuat perubahan pada source code
+  - Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar
+# Kelemahan git
+  - Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang kurang berpengalaman     
+  - Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, branching, dan merging
+  - Sulit digunakan untuk pengelolaan file biner atau non-teks, seperti gambar atau video
+# Cara melakukan instalasi Git serta konfigurasi awal
+  - Buka halaman download Git di https://git-scm.com/downloads
+  - Pilih versi Git yang sesuai untuk sistem operasi Anda (Windows, Mac, atau Linux)
+  - Setelah unduhan selesai, buka file instalator dan ikuti instruksi yang muncul pada layar
+  - Selama proses instalasi, Anda dapat memilih komponen yang ingin diinstal dan direktori tempat Git akan diinstal
+  - Setelah instalasi selesai, Anda dapat memverifikasi instalasi Git dengan membuka terminal (command prompt di Windows) dan mengetikkan perintah git --version. Jika Git terinstal dengan benar, versi Git yang terpasang akan ditampilkan
